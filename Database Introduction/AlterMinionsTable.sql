@@ -1,0 +1,2 @@
+ALTER TABLE Minions.dbo.Minions
+ADD TownId INT FOREIGN KEY REFERENCES Towns(Id)
