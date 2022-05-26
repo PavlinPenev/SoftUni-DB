@@ -2,7 +2,6 @@ CREATE FUNCTION ufn_isWordComprised(@setOfLetters NVARCHAR(MAX), @word NVARCHAR(
 RETURNS BIT
 AS
 BEGIN
-	DECLARE @currentLetter NVARCHAR(1)
 	DECLARE @currentIndex INT = 1
 		WHILE(@currentIndex <= LEN(@word))
 		BEGIN
