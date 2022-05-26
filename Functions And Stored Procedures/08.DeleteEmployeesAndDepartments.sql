@@ -27,6 +27,4 @@ BEGIN
 
 	SELECT COUNT(*)[Count] FROM [Employees]
 	WHERE [DepartmentID] = @departmentId
-
-	RETURN 0
 END
