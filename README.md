@@ -23,4 +23,6 @@ Problem Solutions repository for the tasks given in the course.
 <p></p>
 
 # Certificate
-Link to certificate - Coming soon!
+Link to certificate - https://softuni.bg/certificates/details/134779/5ff817ea
+<p></p>
+<img src="https://i.postimg.cc/dVnnz74Z/Programming-Basics-February-2021-Certificate.jpg">
